@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class Rock_paper_Scissor {
 
-
 	public static void main(String[] args) {
 		Scanner sc  = new Scanner(System.in);
 
